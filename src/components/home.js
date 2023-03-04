@@ -26,7 +26,7 @@ export default function Home() {
             </a>
           </div>
           <div className="github">
-            <a href="https://github.com/Sh0bhit" target="_blank">
+            <a href="https://github.com/Shobhitexe" target="_blank">
               <img
                 src="/images/github-code-source-svgrepo-com.svg"
                 loading="lazy"
